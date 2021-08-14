@@ -1,0 +1,81 @@
+.blockGallery {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: aqua; */
+}
+
+
+
+.galleryTitle {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    margin-top: 204px;
+    margin-left: 50px;
+
+}
+
+.sliderStart {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: rgb(118, 90, 145); */
+    width: 1685px;
+    margin-top: 116px;
+}
+
+.sliderDot{
+    margin-top: 120px;
+    margin-left: 50px;
+}
+
+.animalSlider {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    /* background-color: blueviolet; */
+    width: 1456px;
+
+}
+
+
+.animalItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: burlywood; */
+
+}
+
+.btnForward {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 42px;
+    height: 42px;
+    /* background-color: white; */
+    border-radius: 100%;
+    box-shadow: -4px 5px 15px rgba(0, 0, 0, 0.74);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+
+.animalName {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+}
+
+.animalNextInf {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+}

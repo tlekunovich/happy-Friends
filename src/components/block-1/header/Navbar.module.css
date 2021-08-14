@@ -1,0 +1,45 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: blueviolet; */
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    height: 38px;
+    width: 910px;
+    margin-bottom: 15px;
+    margin-left: 117px;
+}
+.navItem {
+    /* background-color:coral; */
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+   } 
+
+.nav li {
+    list-style-type: none;
+
+}
+
+nav ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+.nav a:hover {
+    border-bottom: 1px black solid;
+    font-weight: 600;
+  }
+
+.img{
+    width: 38px;
+    height: 38px;
+}
+

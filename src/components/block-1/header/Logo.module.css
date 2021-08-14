@@ -1,0 +1,27 @@
+.logo {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-direction: row;
+    font-family: Text Me One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    /* background-color:beige; */
+    width: 352px;
+    height:100%;
+  }
+
+  .title {
+    /* background-color: aqua; */
+    height: 40px;
+    margin-bottom: 20px;
+   
+  }
+
+.logotype {
+    height:100%;
+    width: 100%;
+    /* background-color:chartreuse; */
+    display: block
+}
