@@ -9,7 +9,6 @@ const Cart = () => {
         <div className={style.cartLogo}><img src={cart} alt=''></img></div>
             <div>200 p.</div>
             <div className={style.cartArrow}><img src={vector1} alt=''></img></div>
-            <div></div>
      </div>
 
 
