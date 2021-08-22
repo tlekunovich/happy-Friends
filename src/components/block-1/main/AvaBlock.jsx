@@ -24,14 +24,12 @@ const AvaBlock = () => {
 
 
             <div className={style.description}
-            // style={{ 
-            //     backgroundImage: `url("https://via.placeholder.com/500")` 
-            //   }}
+            
             >
-                {/* <div className={style.back}> */}
+              
                 <div className={style.descriptionTitle}>БЛАГОТВОРИТЕЛЬНОСТЬ</div>
                 <div>Помочь приемнику в один клик!</div>
-                {/* </div> */}
+                
                 <div className={style.socialIcons}>
                 {socialNetworks.map((elem)=>{
                    return(
