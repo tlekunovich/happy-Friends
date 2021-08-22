@@ -11,13 +11,11 @@
     font-weight: 500;
     font-size: 30px;
     color: white;
-    /* background-color:blueviolet; */
     margin-bottom: 15px;
   }
   
   .cartArrow {
     margin-left: 13px;
-    /* transform: rotate(45deg); */
   }
   
   .cartLogo {

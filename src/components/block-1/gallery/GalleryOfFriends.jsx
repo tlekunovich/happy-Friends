@@ -15,7 +15,6 @@ const GalleryOfFriends = () => {
         { name: 'Дымок', photo: dumok, age: '1,3 года', gender: 'мальчик' }
     ]
 
-
     return (
         <div className={style.blockGallery}>
 

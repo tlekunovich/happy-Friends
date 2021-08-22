@@ -10,9 +10,6 @@ const Cart = () => {
             <div>200 p.</div>
             <div className={style.cartArrow}><img src={vector1} alt=''></img></div>
      </div>
-
-
-
     )
 }
 

@@ -3,7 +3,6 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    /* background-color: blueviolet; */
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-size: 25px;
@@ -13,7 +12,6 @@
     margin-left: 117px;
 }
 .navItem {
-    /* background-color:coral; */
     text-decoration: none;
     color: black;
     padding: 10px 20px;

@@ -4,14 +4,12 @@
     align-items: flex-start;
     flex-direction: column;
     margin-top: 215px;
-    /* background-color: crimson; */
     width: 729px;
     height: 365px;
 }
 
 
 .title1 {
-    /* background-color: darkgoldenrod; */
     left: 122px;
     top: 399px;
     font-family: 'Montserrat', sans-serif;
@@ -25,7 +23,6 @@
 
 
 .title2 {
-    /* background-color: darkgoldenrod; */
     left: 122px;
     top: 399px;
     font-family: 'Montserrat', sans-serif;

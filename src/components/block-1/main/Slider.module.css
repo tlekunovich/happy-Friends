@@ -1,21 +1,18 @@
-.sliderMainBlock{
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items:flex-start;
-    /* background-color:cadetblue; */
-margin-top: 246px;
+.sliderMainBlock {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 246px;
 }
 
-.slider{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items:center;
-    /* background-color:violet; */
-    width: 640px;
-    height: 280px;
-    /* margin-top: 40px; */
+.slider {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 640px;
+  height: 280px;
 }
 
 .sliderTitle {
@@ -24,11 +21,7 @@ margin-top: 246px;
   font-style: normal;
   font-weight: 500;
   font-size: 50px;
-  /* line-height: 46%;
-  letter-spacing: -0.025em; */
   color: #000000;
-  /* margin-top: 280px;
-  margin-left: 50px; */
 }
 
 .btnForward {
@@ -41,16 +34,14 @@ margin-top: 246px;
   border-radius: 100%;
   box-shadow: -4px 5px 15px rgba(0, 0, 0, 0.74);
   transform: matrix(-1, 0, 0, 1, 0, 0);
-  /* background-color:blueviolet; */
 }
 
-  
+
 .sliderBlock {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  /* background-color:chocolate; */
 }
 
 
@@ -65,51 +56,42 @@ margin-top: 246px;
   box-shadow: -5px 7px 15px rgba(0, 0, 0, 0.74);
   border-radius: 34px;
   margin: 0 10px;
-  /* background-color:cornflowerblue; */
 }
 
-.animalType{
+.animalType {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items:center; 
-/* background-color:rgb(70, 224, 230); */
-width: 200px; 
-margin-top: 10px; 
+  align-items: center;
+  width: 200px;
+  margin-top: 10px;
 }
 
 
 
-.sliderPhoto{
-  /* background-color:coral; */
-}
-
-.content{
-    /* background-color:darkseagreen; */
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items:center;
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 
 
-.animalPhoto{
-    margin-top: 15px;
-  }
-  
- .titleSlider1{
-  font-family: 'Montserrat' sans-serif;
+.animalPhoto {
+  margin-top: 15px;
+}
+
+.titleSlider1 {
+  font-family: 'Montserrat'sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 25px;
- }
-
-  
-.handler{
-
 }
-  
+
+
+.handler {}
+
 
 .sliderRectangle {
   margin-top: 35px;
@@ -125,6 +107,3 @@ margin-top: 10px;
   position: absolute;
 
 }
- 
-
- 

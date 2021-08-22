@@ -3,7 +3,6 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    /* background-color: darkgreen; */
     width: 955px;
 
 }
@@ -11,7 +10,6 @@
 .ava {
     width: 1100px;
     height: 1100px;
-    /* background-color: darkmagenta; */
     margin-top: -150px;
 
 
@@ -30,7 +28,6 @@
    }
 
 .back{
-    /* background: url('../../../img/charity.svg') no-repeat center center;   */
     background-size: 867px 160px;
     display: block;
     margin-left: auto;
@@ -50,7 +47,6 @@
 }
 
 .socialIcons{
-    /* background-color:darkorange; */
     height: 72px;
     width: 359px;
     display: flex;
